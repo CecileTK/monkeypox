@@ -16,7 +16,7 @@ build_name: "hmpxv1_big"
 auspice_name: "monkeypox_hmpxv1_big"
 
 ## filter
-min_date: 2017
+min_date: 2022
 min_length: 100000
 sequences_per_group: ""
 group_by: ""
